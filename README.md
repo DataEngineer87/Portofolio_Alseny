@@ -1,7 +1,6 @@
 # Machin Learning Enginner
 ## Formations
 - Machine Learning Enginner
-- 
 - Master Data Science
   
 Certificat Data Science
