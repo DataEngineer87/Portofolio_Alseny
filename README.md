@@ -1,2 +1,7 @@
-# Portofolio_Alseny
-Portofolio_github.io/portofolio
+# Data Scientist
+## Formations
+Machine Learning Enginner
+Master Data Science
+Certificat Data Science
+## Expériences
+Data scientist @Covéa
