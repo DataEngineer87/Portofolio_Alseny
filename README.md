@@ -1,7 +1,9 @@
 # Machin Learning Enginner
 ## Formations
-Machine Learning Enginner
-Master Data Science
+- Machine Learning Enginner
+- 
+- Master Data Science
+  
 Certificat Data Science
 ## Expériences
 Data scientist @Covéa
