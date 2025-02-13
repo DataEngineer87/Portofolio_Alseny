@@ -2,7 +2,8 @@ title: Alseny_Portofolio
 logo: /images/photo.jpg
 # description: texte pour logo
 show_downloads: true
-thelme: jekyll-theme-minimal
+thelme: jekyll-theme-merlot
+#thelme: jekyll-theme-minimal
 ## photo ![](images/_K__2859.jpg)
 
 #remote_theme: pages-themes/slate@v0.2.0
