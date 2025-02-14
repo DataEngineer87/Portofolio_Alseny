@@ -1,5 +1,7 @@
 title: Alseny_Portofolio
-logo: /images/photo.jpg
+description: [A short description of your site's purpose]
+
+#logo: /images/photo.jpg
 # description: texte pour logo
 show_downloads: true
 # remote_theme: pages-themes/minimal@v0.2.0
