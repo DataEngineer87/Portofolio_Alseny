@@ -16,6 +16,8 @@ Mon agilité, ma curiosité analytique et mon approche proactive sont des atouts
 Data scientist @Covéa
 ## Projet
 - Projet: ML
+show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+
 - Projet2: Deep Learning
 - Projet: CNN
 - projet: NLP
