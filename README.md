@@ -1,9 +1,12 @@
 # Data Scientist
-### Formations
+## Expériences
+- Data Scientist | Covéa
+- Data Scientist | Ufirst Alvisory
+- Chargé d'études Statistiques | Altocis.P.S.
+## Formations
 - Machine Learning Enginner
 - Master Data Science
 - Certificat Data Science
-## Expériences
 Data scientist @Covéa
 ## Projet
 - Projet: ML
