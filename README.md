@@ -1,5 +1,5 @@
 ## Bienvenue dans mon portfolio
-## Data Scientist / Machine Learning Engineer.
+## Machine Learning Engineer.
 
 ## Expériences
 - Data Scientist - Covéa
