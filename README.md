@@ -2,7 +2,7 @@
 ## Expériences
 - Data Scientist | Covéa
 - Data Scientist | Ufirst Alvisory
-- Chargé d'études Statistiques | Altocis.P.S.
+- Chargé d'études Statistiques | Covéa
 ## Formations
 - Machine Learning Enginner
 - Master Data Science
