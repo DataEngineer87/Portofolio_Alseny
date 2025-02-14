@@ -1,9 +1,8 @@
 # Data Scientist
 ## Expériences
-- Data Scientist | Covéa
-  jjjjjjjjj
-- Data Scientist | Ufirst Alvisory
-- Chargé d'études Statistiques | Covéa
+- Data Scientist - Covéa
+- Data Scientist - Ufirst Alvisory
+- Chargé d'études Statistiques - Covéa
 ## Formations
 - Machine Learning Enginner
 - Master Data Science
