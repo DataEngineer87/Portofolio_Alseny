@@ -1,7 +1,6 @@
 Data Scientist & Machine Learning Engineer.
-Je mets un accent particulier sur l'excellence et la pérennité des solutions analytiques que je conçois. En tant que professionnel, je collabore efficacement avec des équipes multidisciplinaires, regroupant data engineers, analystes et développeurs, pour mener à bien des projets complexes et à grande échelle.
-Proactif, méthodique et rigoureux, je possède de solides compétences en gestion de projets et en communication. Mon approche est axée sur l'atteinte des objectifs tout en respectant les délais et les budgets impartis.
-Mon agilité, ma curiosité analytique et mon approche proactive sont des atouts clés pour une entreprise désireuse d’optimiser ses processus décisionnels et de maîtriser sa stratégie basée sur les données.
+Je mets un accent particulier sur l'excellence et la pérennité des solutions analytiques que je conçois. En tant qu'expert en data science, je vous aide à donner du sens à vos données en extrayant des insights pertinents et en développant des modèles intelligents pour éclairer vos décisions.
+
 
 ## Machine Learning Engineer.
 
