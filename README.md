@@ -6,11 +6,14 @@ Je mets un accent particulier sur l'excellence et la pérennité des solutions a
 - Data Scientist - Covéa
 - Data Scientist - Ufirst Alvisory
 - Chargé d'études Statistiques - Covéa
+- 
 ## Projets
 - Projet: ML
 - Projet: Deep Learning
 - Projet: CNN
 - projet: NLP
+
+- 
 ## Formations
 - Machine Learning Enginner
 - Master Data Science
