@@ -15,7 +15,7 @@ Je mets un accent particulier sur l'excellence et la pérennité des solutions a
 - Industrialisé le scoring de fraude via AWS Sagemaker, réduisant le temps de détection de 40 %.
 - Déployé des dashboards interactifs (Power BI, Tableau), optimisant l’interprétation des insights métiers.
 
-  🔹Data Scientist | Ufirst Advisory | [Dates]
+🔹Data Scientist | Ufirst Advisory | [Dates]
 📍 Paris, France.
 - Optimisé le traitement des données (+50M lignes) avec SQL, Pandas, PySpark, réduisant le temps de préparation de 30 %.
 - Exploré et visualisé les données (Matplotlib, Seaborn, Plotly), améliorant l’analyse exploratoire et la prise de décision.
