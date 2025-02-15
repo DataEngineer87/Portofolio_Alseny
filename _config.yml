@@ -1,11 +1,11 @@
 title: Alseny_Portofolio
-description: [A short description of your site's purpose]
+description: [Data Scientist & Machine Learning Engineer]
 
 #logo: /images/photo.jpg
 # description: texte pour logo
 show_downloads: true
-# remote_theme: pages-themes/minimal@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
-remote_theme: pages-themes/merlot@v0.2.0 #thelme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+#remote_theme: pages-themes/merlot@v0.2.0 #thelme: jekyll-theme-minimal
 ## photo ![](images/_K__2859.jpg)
