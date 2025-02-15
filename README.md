@@ -40,7 +40,7 @@ Ce projet nous guide droit à la modélisation des churns
 ![Data Code](/images/photo/DaImg.jpg)
 
 ### Projet: Deep Learning
-![Data Code](normal.jpg)
+![Data Code](/images/photo/normal.jpg)
 
 ### Projet: CNN
 ### projet: NLP
