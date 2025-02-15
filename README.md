@@ -9,11 +9,11 @@ Je mets un accent particulier sur l'excellence et la pérennité des solutions a
 ## Expériences
 🔹Data Scientist | Covéa | [Dates]
 📍 Paris, France.
-- Développé un modèle de tarification dynamique en assurance habitation (MRH) basé sur l’adresse de l’assuré, utilisant Python (Scikit-learn, XGBoost) et SQL, réduisant l’écart-type des primes de 15 % et améliorant l’équité tarifaire.
-- Exploré et analysé plus de 10 millions de sinistres corporels graves en assurance automobile via PySpark et SQL, identifiant des facteurs de risque clés ayant permis une réduction des coûts d’indemnisation de 10 %.
-- Implémenté un algorithme de détection de fraude en assurance habitation basé sur l’IA et le scoring de risque (Random Forest, Gradient Boosting), augmentant le taux de détection des fraudes de 30 %.
-- Déployé des modèles de machine learning sur AWS Sagemaker, industrialisant le scoring de fraude et réduisant le temps de détection de 40 %.
-Conçu des dashboards interactifs sur Power BI et Tableau, facilitant l’interprétation des insights pour les équipes métier.
+- Optimisé la tarification MRH en développant un modèle dynamique (Python, SQL), réduisant l’écart-type des primes de 15 %.
+- Analysé 10M+ sinistres auto (PySpark, SQL), identifiant des facteurs de risque et réduisant les coûts d’indemnisation de 10 %.
+- Renforcé la lutte antifraude en implémentant un modèle IA (Random Forest, Gradient Boosting), améliorant la détection de 30 %.
+- Industrialisé le scoring de fraude via AWS Sagemaker, réduisant le temps de détection de 40 %.
+- Déployé des dashboards interactifs (Power BI, Tableau), optimisant l’interprétation des insights métiers.
 
   🔹Data Scientist | Ufirst Advisory | [Dates]
 📍 Paris, France.
