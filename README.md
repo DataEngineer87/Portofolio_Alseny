@@ -40,7 +40,7 @@ Ce projet nous guide droit à la modélisation des churns
 ![Data Code](/images/photo/DaImg.jpg)
 
 ### Projet: Deep Learning
-![Data Code](/images/photo/DaImg.jpg)
+![Data Code](normal-distribution-bell-curve.webp)
 
 ### Projet: CNN
 ### projet: NLP
