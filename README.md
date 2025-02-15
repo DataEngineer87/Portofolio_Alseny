@@ -25,11 +25,11 @@ Je mets un accent particulier sur l'excellence et la pérennité des solutions a
 
 🔹 Chargé d'études statistiques | Altocis-P.S.| [Dates]
 📍 Paris, France.
-Analysé et structuré les données internes en concevant des tableaux de bord dynamiques et des visualisations percutantes sous Excel et Power BI, améliorant ainsi la clarté des insights pour la direction.
-Optimisé le suivi des performances en mettant à jour et en automatisant les tableaux de bord KPI, réduisant le temps d'analyse de 30 %.
+- Analysé et structuré les données internes en concevant des tableaux de bord dynamiques et des visualisations percutantes sous Excel et Power BI, améliorant ainsi la clarté des insights pour la direction.
+- Optimisé le suivi des performances en mettant à jour et en automatisant les tableaux de bord KPI, réduisant le temps d'analyse de 30 %.
 Orchestré le traitement et le tri de 500+ documents comptables (factures, reçus), garantissant une extraction et une saisie de données précises sous SQL et Excel VBA.
-Contribué activement aux réunions stratégiques en fournissant des analyses approfondies et recommandations data-driven, influençant ainsi les décisions opérationnelles.
-Coordonné et optimisé la planification des agents, assurant une meilleure allocation des ressources et une réduction des conflits d’horaires de 25 %.
+- Contribué activement aux réunions stratégiques en fournissant des analyses approfondies et recommandations data-driven, influençant ainsi les décisions opérationnelles.
+- Coordonné et optimisé la planification des agents, assurant une meilleure allocation des ressources et une réduction des conflits d’horaires de 25 %.
 
 ## Projets
 - Projet: ML
