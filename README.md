@@ -32,7 +32,8 @@ Je mets un accent particulier sur l'excellence et la pérennité des solutions a
 - Optimisé la planification des agents, réduisant les conflits d’horaires de 25 %.
 
 ## Projets
-- Projet: ML
+### Projet: ML
+[Publication](https://github.com/DataEngineer87)
 - Projet: Deep Learning
 - Projet: CNN
 - projet: NLP
