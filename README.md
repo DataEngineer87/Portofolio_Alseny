@@ -37,10 +37,10 @@ Je mets un accent particulier sur l'excellence et la pérennité des solutions a
 
 Ce projet nous guide droit à la modélisation des churns
 
-![Data Code](/images/photo/DataImg.jpeg)
+![Data Code](/images/photo/DaImg.jpg)
 
 ### Projet: Deep Learning
-![Data Code](/images/photo/DataImg.jpg)
+![Data Code](/images/photo/DaImg.jpg)
 
 ### Projet: CNN
 ### projet: NLP
