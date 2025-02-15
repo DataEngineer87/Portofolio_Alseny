@@ -33,8 +33,8 @@ Je mets un accent particulier sur l'excellence et la pérennité des solutions a
 
 ## Projets
 ### Projet: ML
-[Publication](https://github.com/DataEngineer87)
-- Projet: Deep Learning
-- Projet: CNN
-- projet: NLP
+[Publication](https://tagsprediction-bhnyhaye963vexcgjrbakj.streamlit.app/)
+### Projet: Deep Learning
+### Projet: CNN
+### projet: NLP
 
