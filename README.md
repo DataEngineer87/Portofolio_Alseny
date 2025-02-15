@@ -17,11 +17,11 @@ Je mets un accent particulier sur l'excellence et la pérennité des solutions a
 
   🔹Data Scientist | Ufirst Advisory | [Dates]
 📍 Paris, France.
-Extrait, nettoyé et structuré des datasets volumineux (+50M lignes) à l’aide de SQL, Pandas et PySpark, réduisant le temps de préparation des données de 30 %.
-Exploré les données et développé des scripts interactifs de visualisation sous Matplotlib, Seaborn et Plotly, facilitant l’analyse exploratoire et la prise de décision.
-Conçu et implémenté des modèles prédictifs avancés (arbres de décision, forêts aléatoires, Gradient Boosting - XGBoost, LightGBM), améliorant la précision des prévisions de vente de 15 %.
-Automatisé le déploiement des modèles via Docker et AWS Lambda, réduisant le temps de mise en production de 40 %.
-Communiqué efficacement les insights et résultats des modélisations à travers des rapports clairs et impactants en Power BI, Tableau et Dash, facilitant la prise de décision des équipes métiers.
+- Optimisé le traitement des données (+50M lignes) avec SQL, Pandas, PySpark, réduisant le temps de préparation de 30 %.
+- Exploré et visualisé les données (Matplotlib, Seaborn, Plotly), améliorant l’analyse exploratoire et la prise de décision.
+- Amélioré les prévisions de vente de 15 % via des modèles prédictifs avancés (XGBoost, LightGBM, Random Forest).
+- Automatisé le déploiement des modèles (Docker, AWS Lambda), réduisant le time-to-production de 40 %.
+- Restitué des insights clairs en Power BI, Tableau, Dash, facilitant la prise de décision métier.
 
 🔹 Chargé d'études statistiques | Altocis-P.S.| [Dates]
 📍 Paris, France.
