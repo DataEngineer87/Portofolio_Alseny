@@ -33,7 +33,7 @@ Je mets un accent particulier sur l'excellence et la pérennité des solutions a
 
 ## Projets
 ### Projet: ML
-[Publication](https://tagsprediction-bhnyhaye963vexcgjrbakj.streamlit.app/)
+[https://tagsprediction-bhnyhaye963vexcgjrbakj.streamlit.app/](https://tagsprediction-bhnyhaye963vexcgjrbakj.streamlit.app/)
 ### Projet: Deep Learning
 ### Projet: CNN
 ### projet: NLP
