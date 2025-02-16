@@ -35,6 +35,12 @@ Mon agilité, ma curiosité analytique et mon approche proactive sont des atouts
 ## Projets: 
 ### - Développement et déploiement d’une application de recommandation nutritionnelle pour la santé publique en France.
 [Publication](https://tagsprediction-bhnyhaye963vexcgjrbakj.streamlit.app/)
+- Nettoyage et analyse exploratoire des données volumineuses.
+- Mise en oeuvre d’analyse correspondances multiples (ACM) qui a permis d’identifier des
+clients partageant les mêmes caractéristiques.
+- Développement et implémentation d’analyse discriminante linéaire et régression
+logistique pour la prédiction des classes d’appartenances des clients.
+- Comparaison des modèles. Rédaction et présentation de rapport.
 
 ### - Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
 ![Data Code](/images/photo/normal.jpg)
