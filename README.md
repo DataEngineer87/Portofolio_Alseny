@@ -2,8 +2,6 @@
 En tant qu’expert en data science, je vous aide à donner du sens à vos données en extrayant des insights pertinents et en développant des modèles intelligents pour éclairer vos décisions.
 Mon agilité, ma curiosité analytique et mon approche proactive sont des atouts clés pour une entreprise désireuse d’optimiser ses processus décisionnels et de maîtriser sa stratégie basée sur les données. Je mets un accent particulier sur l’excellence et la pérennité des solutions analytiques que je conçois.
 
-
-
 ## Formations
 - Machine Learning Enginner
 - Master Data Science
@@ -34,17 +32,17 @@ Mon agilité, ma curiosité analytique et mon approche proactive sont des atouts
 - Fournit des analyses stratégiques, influençant les décisions opérationnelles.
 - Optimisé la planification des agents, réduisant les conflits d’horaires de 25 %.
 
-## Projets
-### Projet: ML
+### Projet: - Développement et déploiement d’une application de recommandation nutritionnelle pour la santé publique en France.
 [Publication](https://tagsprediction-bhnyhaye963vexcgjrbakj.streamlit.app/)
 
-Ce projet nous guide droit à la modélisation des churns
-
-![Data Code](/images/photo/DaImg.jpg)
-
-### Projet: Deep Learning
+### Projet: Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
 ![Data Code](/images/photo/normal.jpg)
 
-### Projet: CNN
-### projet: NLP
+### Projet: Segmentation client et analyse comportementale sur un site e-commerce à l’aide de techniques de clustering.
+![Data Code](/images/photo/DaImg.jpg)
+
+### projet: Classification de tags avec des modèles NLP et déploiement du modèle sur le cloud.
+
+### Projet: Reconnaissance d’images par Deep Learning en utilisant des réseaux de neurones convolutifs (CNN).
+
 
