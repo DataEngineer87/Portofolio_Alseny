@@ -32,17 +32,18 @@ Mon agilité, ma curiosité analytique et mon approche proactive sont des atouts
 - Fournit des analyses stratégiques, influençant les décisions opérationnelles.
 - Optimisé la planification des agents, réduisant les conflits d’horaires de 25 %.
 
-#### Projet: - Développement et déploiement d’une application de recommandation nutritionnelle pour la santé publique en France.
+## Projets: 
+- Développement et déploiement d’une application de recommandation nutritionnelle pour la santé publique en France.
 [Publication](https://tagsprediction-bhnyhaye963vexcgjrbakj.streamlit.app/)
 
-#### Projet: Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
+- Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
 ![Data Code](/images/photo/normal.jpg)
 
-#### Projet: Segmentation client et analyse comportementale sur un site e-commerce à l’aide de techniques de clustering.
+- Segmentation client et analyse comportementale sur un site e-commerce à l’aide de techniques de clustering.
 ![Data Code](/images/photo/DaImg.jpg)
 
-#### projet: Classification de tags avec des modèles NLP et déploiement du modèle sur le cloud.
+- Classification de tags avec des modèles NLP et déploiement du modèle sur le cloud.
 
-#### Projet: Reconnaissance d’images par Deep Learning en utilisant des réseaux de neurones convolutifs (CNN).
+- Reconnaissance d’images par Deep Learning en utilisant des réseaux de neurones convolutifs (CNN).
 
 
