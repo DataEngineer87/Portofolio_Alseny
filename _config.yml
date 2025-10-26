@@ -1,3 +1,4 @@
+```
 # ------------------------------
 # ⚙️ Configuration du portfolio GitHub Pages
 # ------------------------------
@@ -15,3 +16,4 @@ plugins:
 # 💡 (Optionnel) Couleur principale du thème
 #theme: jekyll-theme-minimal
 #remote_theme: pages-themes/merlot@v0.2.0
+```
