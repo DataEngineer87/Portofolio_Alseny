@@ -1,19 +1,7 @@
-```
-# ------------------------------
-# ⚙️ Configuration du portfolio GitHub Pages
-# ------------------------------
-
 title: "Alseny SACKO"
-description: "Data Scientist & Machine Learning Engineer | IA Générative & MLOps"
+description: "Data Scientist & Machine Learning Engineer"
 logo: "/images/photo/phot.jpg"
 show_downloads: true
-
-# 🎨 Thème GitHub Pages
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "pages-themes/minimal@v0.2.0"
 plugins:
   - jekyll-remote-theme
-
-# 💡 (Optionnel) Couleur principale du thème
-#theme: jekyll-theme-minimal
-#remote_theme: pages-themes/merlot@v0.2.0
-```
