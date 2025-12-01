@@ -32,8 +32,8 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Optimisé la planification des agents, réduisant les conflits d’horaires de 25 %.
 
 ## Projets: 
-### - Développement et déploiement d’une application de recommandation nutritionnelle pour la santé publique en France.
-[Publication](https://tagsprediction-bhnyhaye963vexcgjrbakj.streamlit.app/)
+### - Assistant RH Intelligent basé sur l’IA Générative (RAG).
+[Publication](https://chatbot-rh-rag-scmr8r8njizt9pvbp6268f.streamlit.app/)
 - Nettoyage et analyse exploratoire des données volumineuses.
 - Mise en oeuvre d’analyse correspondances multiples (ACM) qui a permis d’identifier des
 clients partageant les mêmes caractéristiques.
