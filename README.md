@@ -34,13 +34,18 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 ## Projets: 
 ### - Assistant RH Intelligent basé sur l’IA Générative (RAG).
 [Publication](https://chatbot-rh-rag-scmr8r8njizt9pvbp6268f.streamlit.app/)
-- Nettoyage et analyse exploratoire des données volumineuses.
-- Mise en oeuvre d’analyse correspondances multiples (ACM) qui a permis d’identifier des
-clients partageant les mêmes caractéristiques.
-- Développement et implémentation d’analyse discriminante linéaire et régression
-logistique pour la prédiction des classes d’appartenances des clients.
-- Comparaison des modèles. Rédaction et présentation de rapport.
+### Objectif du projet
+Les entreprises, disposent des informations RH (télétravail, congés, formation, primes...) sont souvent dispersé dans des fichiers PDF longs et difficiles à consulter.
 
+Ce projet a pour objectif la mise en palce d'un assistant IA capable de :
+
+Comprendre une question RH en langage naturel
+
+Rechercher automatiquement la réponse dans les documents PDF internes
+
+Générer une réponse claire, contextualisée et sourcée
+
+👉 Gain de temps pour les employés et pour le service RH
 ### - Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
 ![Data Code](/images/photo/normal.jpg)
 
