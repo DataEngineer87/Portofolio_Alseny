@@ -42,9 +42,9 @@ Rechercher automatiquement la réponse dans les documents PDF internes
 Générer une réponse claire et contextualisée.
 
 ***Gain de temps pour les employés et pour le service RH***
-#### Solution technique
-J’ai conçu une architecture complète basée sur le principe du RAG :
-****Recherche vectorielle (FAISS + Sentence-Transformers)****
+### Solution technique
+#### J’ai conçu une architecture complète basée sur le principe du RAG :
+**Recherche vectorielle (FAISS + Sentence-Transformers)**
 - Extraction du texte des PDF RH
 - Découpage en chunks
 - Génération d’embeddings
