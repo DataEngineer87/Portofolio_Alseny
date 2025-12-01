@@ -36,16 +36,19 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 [Publication](https://chatbot-rh-rag-scmr8r8njizt9pvbp6268f.streamlit.app/)
 ### Objectif du projet
 Les entreprises, disposent des informations RH (télétravail, congés, formation, primes...) sont souvent dispersé dans des fichiers PDF longs et difficiles à consulter.
-
 Ce projet a pour objectif la mise en palce d'un assistant IA capable de :
-
 Comprendre une question RH en langage naturel
-
 Rechercher automatiquement la réponse dans les documents PDF internes
+Générer une réponse claire et contextualisée.
+***Gain de temps pour les employés et pour le service RH***
+#### Solution technique
+J’ai conçu une architecture complète basée sur le principe du RAG :
+1. Recherche vectorielle (FAISS + Sentence-Transformers)
+- Extraction du texte des PDF RH
+- Découpage en chunks
+- Génération d’embeddings
+- Indexation FAISS pour recherche sémantique rapide
 
-Générer une réponse claire, contextualisée et sourcée
-
-👉 Gain de temps pour les employés et pour le service RH
 ### - Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
 ![Data Code](/images/photo/normal.jpg)
 
