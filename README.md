@@ -47,13 +47,9 @@ Générer une réponse claire et contextualisée.
 ### Architecture globale
 
 #### 1 - Ingestion & Indexation :
-
 - Extraction des textes PDF via LangChain
-
 - Découpage intelligent en chunks
-
 - Vectorisation via MiniLM (HuggingFace)
-
 - Stockage dans une base vectorielle FAISS
 
 #### 2 - Moteur RAG :
@@ -62,7 +58,6 @@ Générer une réponse claire et contextualisée.
 - Génération de réponse avec GPT ou LLM HuggingFace
 
 #### 3 - Interface utilisateur (Streamlit) :
-
 - Chat propre
 - Affichage de la réponse
 - Affichage des sources documentaires
@@ -78,9 +73,15 @@ Générer une réponse claire et contextualisée.
 - Architecture modulaire : API indépendante de l’UI
 - Compatible 100% Open-Source (version HuggingFace)
 - Compatible OpenAI pour une qualité premium
-- Dockerisation complète
 
-
+### Compétences démontrées
+- IA Générative (RAG complet)
+- NLP avancé
+- Vector Search (FAISS)
+- HuggingFace embeddings + LLM
+- Streamlit front-end
+- Gestion des secrets & configuration streamlit cloud
+- Structuration professionnelle de projet IA
 
 
 
