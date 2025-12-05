@@ -4,4 +4,10 @@ logo: "/images/photo/phot.jpg"
 show_downloads: true
 remote_theme: "pages-themes/minimal@v0.2.0"
 plugins:
+Compétences clés :
+- Machine Learning & Deep Learning
+- Scikit-Learn, XGBoost, Random Forest
+- NLP (transformers, embeddings), clustering
+- Feature engineering & optimisation des modèles
+- Évaluation : AUC, F1-Score, confusion matrice
   - jekyll-remote-theme
