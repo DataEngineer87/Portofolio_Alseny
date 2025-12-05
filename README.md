@@ -33,14 +33,14 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 
 ## Projets: 
 ### 1 - Assistant RH Intelligent basé sur l’IA Générative (RAG).
-[Publication](https://chatbot-rh-rag-scmr8r8njizt9pvbp6268f.streamlit.app/)
+[Publication](https://github.com/DataEngineer87/Chatbot-Rh-Rag?tab=readme-ov-file)
 ### Objectif du projet
 Les entreprises, disposent des informations RH (télétravail, congés, formation, primes...) sont souvent dispersé dans des fichiers PDF longs et difficiles à consulter.
 Ce projet a pour objectif la mise en palce d'un assistant IA capable de :
 Comprendre une question RH en langage naturel
 Rechercher automatiquement la réponse dans les documents PDF internes
 Générer une réponse claire et contextualisée.
-![Chatboot RH](/images/photo/CHATBOOT.png)
+![Data Code](/images/photo/CHATBOOT.png)
 ### Architecture globale
 
 #### 1 - Ingestion & Indexation :
