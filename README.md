@@ -32,7 +32,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Optimisé la planification des agents, réduisant les conflits d’horaires de 25 %.
 
 ## Projets: 
-### Projet-1 : Assistant RH Intelligent basé sur l’IA Générative (RAG).
+### Projet 1 : Assistant RH Intelligent basé sur l’IA Générative (RAG).
 [Lien](https://github.com/DataEngineer87/Chatbot-Rh-Rag?tab=readme-ov-file)
 #### Démo :
 ![Data Code](/images/photo/CHATBOOT.png)
@@ -84,7 +84,7 @@ Générer une réponse claire et contextualisée.
 - Structuration professionnelle de projet IA
 
 
-## Projet-2 : Prédiction du Statut de Compte – MLOps de bout en bout
+## Projet 2 : Prédiction du Statut de Compte – MLOps de bout en bout
 
 
 
