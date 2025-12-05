@@ -41,7 +41,7 @@ Comprendre une question RH en langage naturel
 Rechercher automatiquement la réponse dans les documents PDF internes
 Générer une réponse claire et contextualisée.
 
-### Démo
+## Démo :
 ![Data Code](/images/photo/CHATBOOT.png)
 ### Architecture globale
 
