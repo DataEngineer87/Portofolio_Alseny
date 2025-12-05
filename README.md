@@ -69,21 +69,20 @@ Générer une réponse claire et contextualisée.
 - Version locale Dockerisée (API + UI + builder d’index)
 - Version cloud via Streamlit Cloud pour démonstration
 - GitHub Actions (lint + tests + build check)
-
-
-
-
-
-
-
-
-
 ### Solution technique
 **J’ai conçu une architecture complète basée sur le principe du RAG : Recherche vectorielle (FAISS + Sentence-Transformers)**
-- Extraction du texte des PDF RH
-- Découpage en chunks
-- Génération d’embeddings
-- Indexation FAISS pour recherche sémantique rapide
+- 0% hallucinations grâce à un filtrage strict basé sur la similarité vectorielle
+- Gestion multi-PDF pour un référentiel RH complet
+- Architecture modulaire : API indépendante de l’UI
+- Compatible 100% Open-Source (version HuggingFace)
+- Compatible OpenAI pour une qualité premium
+- Dockerisation complète
+
+
+
+
+
+
 
 ### - Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
 ![Data Code](/images/photo/normal.jpg)
