@@ -33,7 +33,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 
 ## Projets: 
 ### Projet 1 : Assistant RH Intelligent basé sur l’IA Générative (RAG).
-[Lien](https://github.com/DataEngineer87/Chatbot-Rh-Rag?tab=readme-ov-file)
+[Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Chatbot-Rh-Rag?tab=readme-ov-file)
 #### Démo :
 ![Data Code](/images/photo/CHATBOOT.png)
 
