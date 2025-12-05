@@ -40,7 +40,7 @@ Ce projet a pour objectif la mise en palce d'un assistant IA capable de :
 Comprendre une question RH en langage naturel
 Rechercher automatiquement la réponse dans les documents PDF internes
 Générer une réponse claire et contextualisée.
-
+![Chatboot RH](/images/photo/CHATBOOT.png)
 ### Architecture globale
 
 #### 1 - Ingestion & Indexation :
@@ -66,9 +66,8 @@ Générer une réponse claire et contextualisée.
 - Gestion des erreurs et clé API
 
 #### 4 - Déploiement :
-- Version locale Dockerisée (API + UI + builder d’index)
 - Version cloud via Streamlit Cloud pour démonstration
-- GitHub Actions (lint + tests + build check)
+- GitHub Actions 
 ### Solution technique
 **J’ai conçu une architecture complète basée sur le principe du RAG : Recherche vectorielle (FAISS + Sentence-Transformers)**
 - 0% hallucinations grâce à un filtrage strict basé sur la similarité vectorielle
