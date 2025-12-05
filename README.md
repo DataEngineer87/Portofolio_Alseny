@@ -79,8 +79,7 @@ Générer une réponse claire et contextualisée.
 
 
 ### Solution technique
-#### J’ai conçu une architecture complète basée sur le principe du RAG :
-**Recherche vectorielle (FAISS + Sentence-Transformers)**
+**J’ai conçu une architecture complète basée sur le principe du RAG : Recherche vectorielle (FAISS + Sentence-Transformers)**
 - Extraction du texte des PDF RH
 - Découpage en chunks
 - Génération d’embeddings
