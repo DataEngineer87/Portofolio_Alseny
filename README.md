@@ -32,7 +32,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Optimisé la planification des agents, réduisant les conflits d’horaires de 25 %.
 
 ## Projets: 
-### 1 - Assistant RH Intelligent basé sur l’IA Générative (RAG).
+### Projet-1 : Assistant RH Intelligent basé sur l’IA Générative (RAG).
 [Lien](https://github.com/DataEngineer87/Chatbot-Rh-Rag?tab=readme-ov-file)
 #### Démo :
 ![Data Code](/images/photo/CHATBOOT.png)
@@ -67,7 +67,7 @@ Générer une réponse claire et contextualisée.
 - Version cloud via Streamlit Cloud pour démonstration
 - GitHub Actions 
 ### Solution technique
-**J’ai conçu une architecture complète basée sur le principe du RAG : Recherche vectorielle (FAISS + Sentence-Transformers)**
+**J’ai conçu une archiPrédiction du Statut de Compte – MLOps de bout en bouttecture complète basée sur le principe du RAG : Recherche vectorielle (FAISS + Sentence-Transformers)**
 - 0% hallucinations grâce à un filtrage strict basé sur la similarité vectorielle
 - Gestion multi-PDF pour un référentiel RH complet
 - Architecture modulaire : API indépendante de l’UI
@@ -82,6 +82,11 @@ Générer une réponse claire et contextualisée.
 - Streamlit front-end
 - Gestion des secrets & configuration streamlit cloud
 - Structuration professionnelle de projet IA
+
+
+## Projet-2 : Prédiction du Statut de Compte – MLOps de bout en bout
+
+
 
 
 
