@@ -84,9 +84,33 @@ Générer une réponse claire et contextualisée.
 - Structuration professionnelle de projet IA
 
 
-## Projet 2 : Prédiction du Statut de Compte – MLOps de bout en bout
+## Projet 2 : Prédiction du Statut de Compte Client
+- Conception d’un pipeline MLOps complet permettant d’automatiser l’entraînement, le test, le déploiement et le suivi d’un modèle de Machine Learning.
+- Le projet combine FastAPI, Docker, GitHub Actions, MLflow, Streamlit Cloud et SHAP pour un cycle de vie ML industrialisé, traçable et explicable.
 
+### Réalisations clés :
+- Déploiement **API FastAPI** conteneurisée avec **Docker** et testée automatiquement via **GitHub Actions (CI/CD).**
+- Entraînement, suivi et versioning des modèles avec **MLflow.**
+- Développement d’une interface utilisateur **Streamlit Cloud** pour des prédictions interactives en ligne.
+- Analyse de l’explicabilité du modèle avec **SHAP** et mise en place d’un monitoring des performances.
+- Tests unitaires automatisés avec **pytest**, assurant stabilité et qualité du code.
 
+### Stack technique :
+- Python,
+- FastAPI,
+- Docker,
+- GitHub Actions,
+- MLflow,
+- Streamlit,
+- SHAP,
+- scikit-learn,
+- pandas,
+- pytest
+
+Lien de démonstration :
+🔗 Application Streamlit
+
+🔗 Code source GitHub
 
 
 
