@@ -41,11 +41,9 @@ Comprendre une question RH en langage naturel
 Rechercher automatiquement la réponse dans les documents PDF internes
 Générer une réponse claire et contextualisée.
 
-```
 ## Démo :
 ![Data Code](/images/photo/CHATBOOT.png)
 
-```
 ### Architecture globale
 
 #### 1 - Ingestion & Indexation :
