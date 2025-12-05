@@ -42,6 +42,44 @@ Rechercher automatiquement la réponse dans les documents PDF internes
 Générer une réponse claire et contextualisée.
 
 ***Gain de temps pour les employés et pour le service RH***
+
+### Architecture globale
+
+#### 1 - Ingestion & Indexation :
+
+- Extraction des textes PDF via LangChain
+
+- Découpage intelligent en chunks
+
+- Vectorisation via MiniLM (HuggingFace)
+
+- Stockage dans une base vectorielle FAISS
+
+#### 2 - Moteur RAG :
+- Similarity search k=3 dans FAISS
+- Construction dynamique du contexte
+- Génération de réponse avec GPT ou LLM HuggingFace
+
+#### 3 - Interface utilisateur (Streamlit) :
+
+- Chat propre
+- Affichage de la réponse
+- Affichage des sources documentaires
+- Gestion des erreurs et clé API
+
+#### 4 - Déploiement :
+- Version locale Dockerisée (API + UI + builder d’index)
+- Version cloud via Streamlit Cloud pour démonstration
+- GitHub Actions (lint + tests + build check)
+
+
+
+
+
+
+
+
+
 ### Solution technique
 #### J’ai conçu une architecture complète basée sur le principe du RAG :
 **Recherche vectorielle (FAISS + Sentence-Transformers)**
