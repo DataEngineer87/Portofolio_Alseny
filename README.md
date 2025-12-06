@@ -108,7 +108,7 @@ Générer une réponse claire et contextualisée.
 
 [Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Statut-Compte-Clients)
 #### Démo :
-![Data Code](images/photo/COMPTE.jpg)
+![Data Code](images/photo/COMPTE_CLIENT_page-0001.jpg)
 
 
 
