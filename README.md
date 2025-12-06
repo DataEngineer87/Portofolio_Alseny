@@ -108,11 +108,7 @@ Générer une réponse claire et contextualisée.
 
 [Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Statut-Compte-Clients)
 #### Démo :
-from PIL import Image
-
-# Charger l'image
 img = Image.open("images/photo/COMPTE_CLIENT_page-0001.jpg")
-
 # Réduire la résolution (par exemple 50%)
 new_width = img.width // 2
 new_height = img.height // 2
