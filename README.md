@@ -103,22 +103,12 @@ Générer une réponse claire et contextualisée.
 - Tests unitaires automatisés avec **pytest**, assurant stabilité et qualité du code.
 
 ### Stack technique :
-- Python,
-- FastAPI,
-- Docker,
-- GitHub Actions,
-- MLflow,
-- Streamlit,
-- SHAP,
-- scikit-learn,
-- pandas,
-- pytest
+- Python, FastAPI, Docker, GitHub Actions, MLflow,
+- Streamlit, SHAP, scikit-learn, pandas, pytest
 
-Lien de démonstration :
-🔗 Application Streamlit
-
-🔗 Code source GitHub
-
+[Code source GitHub | Demo en ligne](https://statutcompteclients-3qzfz7vqnheonajkygypwp.streamlit.app/)
+#### Démo :
+![Data Code]([/images/images/COMPTE.jpg))
 
 
 
