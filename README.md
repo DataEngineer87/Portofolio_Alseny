@@ -42,7 +42,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 ### Projet 1 : Assistant RH Intelligent basé sur l’IA Générative (RAG).
 [Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Chatbot-Rh-Rag?tab=readme-ov-file)
 #### Démo :
-(images/photo/COMPTE_CLIENT_page-0001.jpg" width="400)
+<img src="images/photo/CHATBOOT.png" width="400">
 
 ### Objectif du projet
 Les entreprises, disposent des informations RH (télétravail, congés, formation, primes...) sont souvent dispersé dans des fichiers PDF longs et difficiles à consulter.
@@ -109,7 +109,6 @@ Générer une réponse claire et contextualisée.
 [Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Statut-Compte-Clients)
 #### Démo :
 <img src="images/photo/COMPTE_CLIENT_page-0001.jpg" width="400">
-![Data Code](<img src="images/photo/COMPTE_CLIENT_page-0001.jpg" width="400">)
 
 ### - Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
 ![Data Code](/images/photo/normal.jpg)
