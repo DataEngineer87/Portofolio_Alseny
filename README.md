@@ -108,7 +108,7 @@ Générer une réponse claire et contextualisée.
 
 [Code source GitHub | Demo en ligne](https://statutcompteclients-3qzfz7vqnheonajkygypwp.streamlit.app/)
 #### Démo :
-![Data Code]([/images/images/COMPTE.jpg))
+![Data Code]([images/photo/COMPTE.jpg))
 
 
 
