@@ -108,6 +108,7 @@ Générer une réponse claire et contextualisée.
 
 [Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Statut-Compte-Clients)
 #### Démo :
+<img src="images/photo/COMPTE_CLIENT_page-0001.jpg" width="400">
 ![Data Code](<img src="images/photo/COMPTE_CLIENT_page-0001.jpg" width="400">)
 
 ### - Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
