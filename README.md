@@ -108,7 +108,19 @@ Générer une réponse claire et contextualisée.
 
 [Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Statut-Compte-Clients)
 #### Démo :
-![Data Code](images/photo/COMPTE_CLIENT_page-0001.jpg)
+from PIL import Image
+
+# Charger l'image
+img = Image.open("images/photo/COMPTE_CLIENT_page-0001.jpg")
+
+# Réduire la résolution (par exemple 50%)
+new_width = img.width // 2
+new_height = img.height // 2
+img_resized = img.resize((new_width, new_height), Image.ANTIALIAS)
+
+# Enregistrer l’image compressée
+img_resized.save("images/photo/COMPTE_CLIENT_page-0001_small.jpg", optimize=True, quality=70)
+
 
 
 
