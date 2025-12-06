@@ -106,7 +106,7 @@ Générer une réponse claire et contextualisée.
 - Python, FastAPI, Docker, GitHub Actions, MLflow,
 - Streamlit, SHAP, scikit-learn, pandas, pytest
 
-[Code source GitHub | Demo en ligne](https://statut-compte-clients-payyhi4bgvt38ggybofviy.streamlit.app/)
+[Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Statut-Compte-Clients)
 #### Démo :
 ![Data Code](images/photo/COMPTE.jpg)
 
