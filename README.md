@@ -6,6 +6,13 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Master Data Science
 - Certificat Data Science
 
+## Compétences clés :
+- Machine Learning & Deep Learning
+- Scikit-Learn, XGBoost, Random Forest
+- NLP (transformers, embeddings), clustering
+- Feature engineering & optimisation des modèles
+- Évaluation : AUC, F1-Score, confusion matrice
+
 ## Expériences
 🔹Data Scientist | Covéa | [Dates]
 📍 Paris, France.
