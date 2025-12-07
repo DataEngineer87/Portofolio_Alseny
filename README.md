@@ -97,7 +97,7 @@ Générer une réponse claire et contextualisée.
 
 **Technos :**
 - OpenAI, HuggingFace, LangChain, FAISS 
-- Streamlit, GitHub Actions, Docker
+- Streamlit, GitHub Actions
 
 **Fonctionnalités :**
 - Extraction PDF RH
