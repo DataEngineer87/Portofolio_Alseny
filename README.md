@@ -83,7 +83,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Optimisé la planification des agents, réduisant les conflits d’horaires de 25 %.
 
 ## Projets: 
-### Projet 1 : Assistant RH Intelligent basé sur l’IA Générative (RAG).
+### Projet 1 : Assistant RH Intelligent basé sur l’IA Générative (RAG + LLM + FAISS).
 [Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Chatbot-Rh-Rag?tab=readme-ov-file)
 #### Démo :
 <img src="images/photo/CHATBOOT.png" width="400">
@@ -95,28 +95,18 @@ Comprendre une question RH en langage naturel
 Rechercher automatiquement la réponse dans les documents PDF internes
 Générer une réponse claire et contextualisée.
 
-### Architecture globale
+**Technos :**
+- OpenAI, HuggingFace, LangChain, FAISS 
+- Streamlit, GitHub Actions, Docker
 
-#### 1 - Ingestion & Indexation :
-- Extraction des textes PDF via LangChain
-- Découpage intelligent en chunks
-- Vectorisation via MiniLM (HuggingFace)
-- Stockage dans une base vectorielle FAISS
+**Fonctionnalités :**
+- Extraction PDF RH
+- Embeddings MiniLM + index FAISS
+- RAG complet : recherche + génération
+- Streamlit UI
+- CI/CD GitHub Actions
+- Déploiement Streamlit Cloud
 
-#### 2 - Moteur RAG :
-- Similarity search k=3 dans FAISS
-- Construction dynamique du contexte
-- Génération de réponse avec GPT ou LLM HuggingFace
-
-#### 3 - Interface utilisateur (Streamlit) :
-- Chat propre
-- Affichage de la réponse
-- Affichage des sources documentaires
-- Gestion des erreurs et clé API
-
-#### 4 - Déploiement :
-- Version cloud via Streamlit Cloud pour démonstration
-- GitHub Actions 
 ### Solution technique
 **J’ai conçu une archiPrédiction du Statut de Compte – MLOps de bout en bouttecture complète basée sur le principe du RAG : Recherche vectorielle (FAISS + Sentence-Transformers)**
 - 0% hallucinations grâce à un filtrage strict basé sur la similarité vectorielle
@@ -124,6 +114,11 @@ Générer une réponse claire et contextualisée.
 - Architecture modulaire : API indépendante de l’UI
 - Compatible 100% Open-Source (version HuggingFace)
 - Compatible OpenAI pour une qualité premium
+  
+**Impact :**
+- Accélère l’accès à l’information RH
+- Réduction du temps RH / collaborateurs
+- Démonstration complète d’un projet IA end-to-end
 
 ### Compétences démontrées
 - IA Générative (RAG complet)
