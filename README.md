@@ -96,11 +96,11 @@ Ce projet a pour objectif La mise en palce d'un assistant IA capable de :
 - Rechercher automatiquement la réponse dans les documents PDF internes
 - Générer une réponse claire et contextualisée.
 
-**Technos :**
+**Technos**
 - OpenAI, HuggingFace, LangChain, FAISS 
 - Streamlit, GitHub Actions
 
-**Fonctionnalités :**
+**Fonctionnalités**
 - Extraction PDF RH
 - Embeddings MiniLM + index FAISS
 - RAG complet : recherche + génération
@@ -108,7 +108,7 @@ Ce projet a pour objectif La mise en palce d'un assistant IA capable de :
 - CI/CD GitHub Actions
 - Déploiement Streamlit Cloud
   
-**Impact :**
+**Impact**
 - Accélère l’accès à l’information RH
 - Réduction du temps RH / collaborateurs
 - Démonstration complète d’un projet IA bout-en-bout
@@ -141,12 +141,12 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
   grâce à un pipeline Machine Learning entièrement orchestré en MLOps.
   Ce projet combine FastAPI, Docker, GitHub Actions, MLflow, Streamlit Cloud et SHAP pour un cycle de vie ML industrialisé, traçable et explicable.
 
-**Ce projet vise à :**
+**Ce projet vise à**
 - Réduire la charge opérationnelle de tri et contrôle manuel des comptes.
 - Fiabiliser la prise de décision via un modèle explicable.
 - Automatiser l’entraînement, l’évaluation, le déploiement et le monitoring du modèle.
   
-**Résultats obtenus :**
+**Résultats obtenus**
 - Pipeline MLOps complet : entraînement → tests → tracking → déploiement → monitoring.
 - API FastAPI conteneurisée (Docker) mise en production via GitHub Actions (CI/CD).
 - Dashboard Streamlit Cloud pour réaliser des prédictions en ligne.
@@ -156,7 +156,7 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - Monitoring continu : suivi des dérives de données et de performance.
 
 
-**Stack technique :**
+**Stack technique**
 - Python, FastAPI, Docker, GitHub Actions, MLflow,
 - Streamlit, SHAP, scikit-learn, pandas, pytest
 
