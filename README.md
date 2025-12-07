@@ -131,15 +131,25 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - Structuration professionnelle de projet IA
 
 ## Projet 2 : Prédiction du Statut de Compte Client
-- Conception d’un pipeline MLOps complet permettant d’automatiser l’entraînement, le test, le déploiement et le suivi d’un modèle de Machine Learning.
+**objectif du projet :**
+- Développement et industrialisation d'un système complet capable de prédire automatiquement le statut d’un compte client (actif, dormant, à risque…) 
+  grâce à un pipeline Machine Learning entièrement orchestré en MLOps.
 - Le projet combine FastAPI, Docker, GitHub Actions, MLflow, Streamlit Cloud et SHAP pour un cycle de vie ML industrialisé, traçable et explicable.
 
-### Réalisations clés :
-- Déploiement **API FastAPI** conteneurisée avec **Docker** et testée automatiquement via **GitHub Actions (CI/CD).**
-- Entraînement, suivi et versioning des modèles avec **MLflow.**
-- Développement d’une interface utilisateur **Streamlit Cloud** pour des prédictions interactives en ligne.
-- Analyse de l’explicabilité du modèle avec **SHAP** et mise en place d’un monitoring des performances.
-- Tests unitaires automatisés avec **pytest**, assurant stabilité et qualité du code.
+**Le projet vise à :**
+- Réduire la charge opérationnelle de tri et contrôle manuel des comptes.
+- Fiabiliser la prise de décision via un modèle explicable.
+- Automatiser l’entraînement, l’évaluation, le déploiement et le monitoring du modèle.
+  
+**Résultats obtenus :**
+- Pipeline MLOps complet : entraînement → tests → tracking → déploiement → monitoring.
+- API FastAPI conteneurisée (Docker) mise en production via GitHub Actions (CI/CD).
+- Dashboard Streamlit Cloud pour réaliser des prédictions en ligne.
+- Tests unitaires (pytest) automatisés à chaque push GitHub.
+- Analyse SHAP pour expliquer les prédictions en détail.
+- Versioning complet des modèles et métriques via MLflow.
+- Monitoring continu : suivi des dérives de données et de performance.
+
 
 ### Stack technique :
 - Python, FastAPI, Docker, GitHub Actions, MLflow,
