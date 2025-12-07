@@ -6,8 +6,8 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Master Data Science
 - Certificat Data Science
 
-## Compétences clés :
-**Machine Learning**
+## Compétences clés.
+**Machine Learning :**
 - Machine Learning & Deep Learning
 - Scikit-Learn, XGBoost, Random Forest
 - NLP (transformers, embeddings), clustering
@@ -16,6 +16,39 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Évaluation : AUC, F1-Score, confusion matrice
 - Interprétabilité : SHAP, LIME
 - Évaluation robuste : cross-validation, tests statistiques
+**IA & NLP**
+- Systèmes RAG (Retrieval-Augmented Generation)
+- LLMs (GPT, Mistral, Zephyr, LLaMA 3)
+- Fine-tuning modèles open-source (HuggingFace)
+- Tokenisation, embeddings, FAISS, vector databases
+- Prompt engineering & prompt optimisation
+  
+**MLOps & Déploiement**
+- Docker, Docker Compose
+- GitHub Actions (CI/CD)
+- MLflow (tracking, versioning, registry)
+- Déploiement Streamlit Cloud, HuggingFace Spaces, Render, Azure ML
+- Monitoring des modèles (drift, performance, latence)
+- Packaging, pipelines, automatisation
+  
+**Backend & Dev**
+- Python (avancé), FastAPI (API ML), Streamlit (UI ML)
+- Pipelines ETL/ELT
+- Gestion des environnements (conda, venv), Makefile
+- Tests unitaires (pytest), logging structuré
+  
+**Data Engineering**
+- SQL, PostgreSQL
+- Data modeling, star schema
+- Extraction et transformation de données
+- Gestion de données semi-structurées (JSON, XML, parquet)
+
+**Cloud & DevOps**
+- Azure ML / Azure Storage
+- HuggingFace Spaces
+- Streamlit Cloud
+- Git & GitHub avancé
+- Automatisation CI/CD
 
 ## Expériences
 🔹Data Scientist | Covéa | [Dates]
