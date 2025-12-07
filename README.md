@@ -139,7 +139,7 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 **Objectif du projet**
 - Développement et industrialisation d'un système complet capable de prédire automatiquement le statut d’un compte client (actif, dormant, à risque…) 
   grâce à un pipeline Machine Learning entièrement orchestré en MLOps.
-  Ce projet combine FastAPI, Docker, GitHub Actions, MLflow, Streamlit Cloud et SHAP pour un cycle de vie ML industrialisé, traçable et explicable.
+  Le projet combine FastAPI, Docker, GitHub Actions, MLflow, Streamlit Cloud et SHAP pour un cycle de vie ML industrialisé, traçable et explicable.
 
 **Ce projet vise à**
 - Réduire la charge opérationnelle de tri et contrôle manuel des comptes.
