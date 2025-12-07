@@ -110,7 +110,7 @@ Générer une réponse claire et contextualisée.
 **Impact :**
 - Accélère l’accès à l’information RH
 - Réduction du temps RH / collaborateurs
-- Démonstration complète d’un projet IA end-to-end
+- Démonstration complète d’un projet IA bout-en-bout
   
 **Solution technique**
 J’ai conçu une architecture complète basée sur le principe du **RAG** : Recherche vectorielle **(FAISS + Sentence-Transformers)**
