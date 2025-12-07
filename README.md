@@ -113,6 +113,7 @@ Générer une réponse claire et contextualisée.
 - Démonstration complète d’un projet IA bout-en-bout
   
 **Solution technique**
+
 J’ai conçu une architecture complète basée sur le principe du **RAG** : Recherche vectorielle **(FAISS + Sentence-Transformers)**
 - 0% hallucinations grâce à un filtrage strict basé sur la similarité vectorielle
 - Gestion multi-PDF pour un référentiel RH complet
