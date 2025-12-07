@@ -178,49 +178,32 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 
 Endpoint principal : POST /predict -> renvoie :
 - classe prédite
+- explication SHAP
 
-explication SHAP
-
-5. Interface Streamlit
+**Interface Streamlit**
 
 Accessible en ligne :
+- upload direct de CSV
+- prédiction individuelle ou batch
 
-upload direct de CSV
+**Explicabilité (Explainable AI)**
 
-prédiction individuelle ou batch
-
-affichage des graphiques SHAP
-
-🧠 Explicabilité (Explainable AI)
 Analyse produite par SHAP :
-
-Importance globale des variables
-
-Importance locale pour chaque prédiction
-
-Diagramme waterfall pour comprendre chaque décision
-
+- Importance globale des variables
+- Importance locale pour chaque prédiction
+  
 Cela rend le modèle audit-compatible pour les métiers (finance, risque, conformité).
 
-📈 Monitoring (optionnel mais implémenté)
+**Monitoring (optionnel mais implémenté)**
+- Suivi dérive des données (Data Drift)
+- Historisation dans MLflow
 
-Suivi dérive des données (Data Drift)
-
-Suivi dérive des performances (Model Drift)
-
-Historisation dans MLflow
-
-🏆 Impact business
-
-Automatisation d’un processus métier critique
-
-Suppression des erreurs humaines
-
-Explicabilité conforme aux attentes légales
-
-Accélération du temps de décision
-
-Solution déployée en environnement cloud
+**Impact business**
+- Automatisation d’un processus métier critique
+- Suppression des erreurs humaines
+- Explicabilité conforme aux attentes légales
+- Accélération du temps de décision
+- Solution déployée en environnement cloud
 
 
 
