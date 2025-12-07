@@ -17,6 +17,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Évaluation : AUC, F1-Score, confusion matrice
 - Interprétabilité : SHAP, LIME
 - Évaluation robuste : cross-validation, tests statistiques
+  
 **IA & NLP :**
 - Systèmes RAG (Retrieval-Augmented Generation)
 - LLMs (GPT, Mistral, Zephyr, LLaMA 3)
