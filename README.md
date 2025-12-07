@@ -132,6 +132,9 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - Structuration professionnelle de projet IA
 
 ### Projet 2 : Prédiction du Statut de Compte Client
+[Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Statut-Compte-Clients)
+#### Démo :
+<img src="images/photo/COMPTE_CLIENT_page-0001.jpg" width="400">
 
 **Objectif du projet**
 - Développement et industrialisation d'un système complet capable de prédire automatiquement le statut d’un compte client (actif, dormant, à risque…) 
@@ -157,9 +160,6 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - Python, FastAPI, Docker, GitHub Actions, MLflow,
 - Streamlit, SHAP, scikit-learn, pandas, pytest
 
-[Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Statut-Compte-Clients)
-#### Démo :
-<img src="images/photo/COMPTE_CLIENT_page-0001.jpg" width="400">
 
 ### - Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
 ![Data Code](/images/photo/normal.jpg)
