@@ -88,7 +88,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 #### Démo :
 <img src="images/photo/CHATBOOT.png" width="400">
 
-### Objectif du projet
+**Objectif du projet**
 Les entreprises, disposent des informations RH (télétravail, congés, formation, primes...) sont souvent dispersé dans des fichiers PDF longs et difficiles à consulter.
 Ce projet a pour objectif la mise en palce d'un assistant IA capable de :
 Comprendre une question RH en langage naturel
@@ -130,8 +130,8 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - Gestion des secrets & configuration streamlit cloud
 - Structuration professionnelle de projet IA
 
-## Projet 2 : Prédiction du Statut de Compte Client
-**objectif du projet :**
+### Projet 2 : Prédiction du Statut de Compte Client
+**Objectif du projet :**
 - Développement et industrialisation d'un système complet capable de prédire automatiquement le statut d’un compte client (actif, dormant, à risque…) 
   grâce à un pipeline Machine Learning entièrement orchestré en MLOps.
 - Le projet combine FastAPI, Docker, GitHub Actions, MLflow, Streamlit Cloud et SHAP pour un cycle de vie ML industrialisé, traçable et explicable.
@@ -151,7 +151,7 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - Monitoring continu : suivi des dérives de données et de performance.
 
 
-### Stack technique :
+**Stack technique :**
 - Python, FastAPI, Docker, GitHub Actions, MLflow,
 - Streamlit, SHAP, scikit-learn, pandas, pytest
 
