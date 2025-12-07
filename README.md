@@ -7,11 +7,15 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Certificat Data Science
 
 ## Compétences clés :
+**Machine Learning**
 - Machine Learning & Deep Learning
 - Scikit-Learn, XGBoost, Random Forest
 - NLP (transformers, embeddings), clustering
 - Feature engineering & optimisation des modèles
+- Optimisation : GridSearch, Optuna, Random Search
 - Évaluation : AUC, F1-Score, confusion matrice
+- Interprétabilité : SHAP, LIME
+- Évaluation robuste : cross-validation, tests statistiques
 
 ## Expériences
 🔹Data Scientist | Covéa | [Dates]
