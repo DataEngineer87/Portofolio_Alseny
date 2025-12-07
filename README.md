@@ -89,11 +89,12 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 <img src="images/photo/CHATBOOT.png" width="400">
 
 **Objectif du projet**
+
 Les entreprises, disposent des informations RH (télétravail, congés, formation, primes...) sont souvent dispersé dans des fichiers PDF longs et difficiles à consulter.
-Ce projet a pour objectif la mise en palce d'un assistant IA capable de :
-Comprendre une question RH en langage naturel
-Rechercher automatiquement la réponse dans les documents PDF internes
-Générer une réponse claire et contextualisée.
+Ce projet a pour objectif La mise en palce d'un assistant IA capable de :
+- Comprendre une question RH en langage naturel
+- Rechercher automatiquement la réponse dans les documents PDF internes
+- Générer une réponse claire et contextualisée.
 
 **Technos :**
 - OpenAI, HuggingFace, LangChain, FAISS 
@@ -131,6 +132,7 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - Structuration professionnelle de projet IA
 
 ### Projet 2 : Prédiction du Statut de Compte Client
+
 **Objectif du projet :**
 - Développement et industrialisation d'un système complet capable de prédire automatiquement le statut d’un compte client (actif, dormant, à risque…) 
   grâce à un pipeline Machine Learning entièrement orchestré en MLOps.
