@@ -155,10 +155,90 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - Versioning complet des modèles et métriques via MLflow.
 - Monitoring continu : suivi des dérives de données et de performance.
 
-
 **Stack technique**
 - Python, FastAPI, Docker, GitHub Actions, MLflow,
 - Streamlit, SHAP, scikit-learn, pandas, pytest
+
+### Caractéristiques techniques du pipeline
+**Préparation & Feature Engineering**
+- Nettoyage, encodage, imputation.
+- Sélection d’attributs basée sur importance.
+- Standardisation dynamique pour éviter les fuites.
+
+**Entraînement du modèle**
+- Modèle choisi : Random Forest / XGBoost selon les versions.
+- Hyperparameter tuning automatisé.
+- Logging automatique dans MLflow Tracking : métriques (accuracy, f1-score, recall…), paramètres, artefacts, modèle picklé
+
+**CI/CD avec GitHub Actions**
+- Déclenchement automatique à chaque push : Installation de l’environnement, Exécution des tests unitaires (pytest), Construction Docker,
+  Déploiement automatique de l’API
+
+**API FastAPI**
+
+Endpoint principal : POST /predict -> renvoie :
+- classe prédite
+
+explication SHAP
+
+5. Interface Streamlit
+
+Accessible en ligne :
+
+upload direct de CSV
+
+prédiction individuelle ou batch
+
+affichage des graphiques SHAP
+
+🧠 Explicabilité (Explainable AI)
+Analyse produite par SHAP :
+
+Importance globale des variables
+
+Importance locale pour chaque prédiction
+
+Diagramme waterfall pour comprendre chaque décision
+
+Cela rend le modèle audit-compatible pour les métiers (finance, risque, conformité).
+
+📈 Monitoring (optionnel mais implémenté)
+
+Suivi dérive des données (Data Drift)
+
+Suivi dérive des performances (Model Drift)
+
+Historisation dans MLflow
+
+🏆 Impact business
+
+Automatisation d’un processus métier critique
+
+Suppression des erreurs humaines
+
+Explicabilité conforme aux attentes légales
+
+Accélération du temps de décision
+
+Solution déployée en environnement cloud
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### - Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
