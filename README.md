@@ -49,6 +49,10 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Streamlit Cloud
 - Git & GitHub avancé
 - Automatisation CI/CD
+**Outils**
+- Python · Pandas · NumPy · Scikit-learn · FAISS · LangChain · HuggingFace · Transformers
+- Docker · Git · GitHub Actions · MLflow · Streamlit · FastAPI · SQL
+
 
 ## Expériences
 🔹Data Scientist | Covéa | [Dates]
