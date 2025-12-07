@@ -184,7 +184,7 @@ Endpoint principal : POST /predict -> renvoie :
 
 Accessible en ligne :
 - upload direct de CSV
-- prédiction individuelle ou batch
+- prédiction individuelle 
 
 **Explicabilité (Explainable AI)**
 
@@ -193,10 +193,6 @@ Analyse produite par SHAP :
 - Importance locale pour chaque prédiction
   
 Cela rend le modèle audit-compatible pour les métiers (finance, risque, conformité).
-
-**Monitoring (optionnel mais implémenté)**
-- Suivi dérive des données (Data Drift)
-- Historisation dans MLflow
 
 **Impact business**
 - Automatisation d’un processus métier critique
