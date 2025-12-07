@@ -114,7 +114,7 @@ Générer une réponse claire et contextualisée.
   
 **Solution technique**
 
-J’ai conçu une architecture complète basée sur le principe du **RAG** : Recherche vectorielle **(FAISS + Sentence-Transformers)**
+Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - 0% hallucinations grâce à un filtrage strict basé sur la similarité vectorielle
 - Gestion multi-PDF pour un référentiel RH complet
 - Architecture modulaire : API indépendante de l’UI
