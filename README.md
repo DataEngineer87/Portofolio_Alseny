@@ -134,14 +134,11 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 ### Projet 2 : Prédiction du Statut de Compte Client
 
 **Objectif du projet**
-
-Le projet à pour objectif :
 - Développement et industrialisation d'un système complet capable de prédire automatiquement le statut d’un compte client (actif, dormant, à risque…) 
   grâce à un pipeline Machine Learning entièrement orchestré en MLOps.
-  
   Ce projet combine FastAPI, Docker, GitHub Actions, MLflow, Streamlit Cloud et SHAP pour un cycle de vie ML industrialisé, traçable et explicable.
 
-**Le projet vise à :**
+**Ce projet vise à :**
 - Réduire la charge opérationnelle de tri et contrôle manuel des comptes.
 - Fiabiliser la prise de décision via un modèle explicable.
 - Automatiser l’entraînement, l’évaluation, le déploiement et le monitoring du modèle.
