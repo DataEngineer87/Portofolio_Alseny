@@ -106,21 +106,21 @@ Générer une réponse claire et contextualisée.
 - Streamlit UI
 - CI/CD GitHub Actions
 - Déploiement Streamlit Cloud
-
-### Solution technique
-**J’ai conçu une archiPrédiction du Statut de Compte – MLOps de bout en bouttecture complète basée sur le principe du RAG : Recherche vectorielle (FAISS + Sentence-Transformers)**
-- 0% hallucinations grâce à un filtrage strict basé sur la similarité vectorielle
-- Gestion multi-PDF pour un référentiel RH complet
-- Architecture modulaire : API indépendante de l’UI
-- Compatible 100% Open-Source (version HuggingFace)
-- Compatible OpenAI pour une qualité premium
   
 **Impact :**
 - Accélère l’accès à l’information RH
 - Réduction du temps RH / collaborateurs
 - Démonstration complète d’un projet IA end-to-end
+  
+**Solution technique**
+J’ai conçu une architecture complète basée sur le principe du **RAG** : Recherche vectorielle **(FAISS + Sentence-Transformers)**
+- 0% hallucinations grâce à un filtrage strict basé sur la similarité vectorielle
+- Gestion multi-PDF pour un référentiel RH complet
+- Architecture modulaire : API indépendante de l’UI
+- Compatible 100% Open-Source (version HuggingFace)
+- Compatible OpenAI pour une qualité premium 
 
-### Compétences démontrées
+**Compétences démontrées**
 - IA Générative (RAG complet)
 - NLP avancé
 - Vector Search (FAISS)
@@ -128,7 +128,6 @@ Générer une réponse claire et contextualisée.
 - Streamlit front-end
 - Gestion des secrets & configuration streamlit cloud
 - Structuration professionnelle de projet IA
-
 
 ## Projet 2 : Prédiction du Statut de Compte Client
 - Conception d’un pipeline MLOps complet permettant d’automatiser l’entraînement, le test, le déploiement et le suivi d’un modèle de Machine Learning.
