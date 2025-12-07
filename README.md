@@ -159,14 +159,14 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - Python, FastAPI, Docker, GitHub Actions, MLflow,
 - Streamlit, SHAP, scikit-learn, pandas, pytest
 
-### Caractéristiques techniques du pipeline
+###### Caractéristiques techniques du pipeline
 **Préparation & Feature Engineering**
 - Nettoyage, encodage, imputation.
 - Sélection d’attributs basée sur importance.
 - Standardisation dynamique pour éviter les fuites.
 
 **Entraînement du modèle**
-- Modèle choisi : Random Forest / XGBoost selon les versions.
+- Modèle choisi : Random Forest.
 - Hyperparameter tuning automatisé.
 - Logging automatique dans MLflow Tracking : métriques (accuracy, f1-score, recall…), paramètres, artefacts, modèle picklé
 
