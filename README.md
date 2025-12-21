@@ -1,4 +1,4 @@
-## Data Scientist / Machine Learning Engineer orienté MLOps & GenAI 
+## Data Scientist confirmé orienté MLOps & GenAI
 En tant qu’expert en data science, je vous accompagne dans la transformation de vos données en leviers stratégiques. Grâce à l’extraction d’insights pertinents et au développement de modèles intelligents, j’apporte une vision éclairée pour optimiser vos prises de décision. Mon agilité, ma curiosité analytique et mon approche proactive constituent des atouts majeurs pour toute entreprise souhaitant affiner sa stratégie et améliorer l’efficacité de ses processus décisionnels. 
 Je privilégie des solutions analytiques performantes, durables et adaptées aux enjeux spécifiques de votre activité.
 ## Formations
