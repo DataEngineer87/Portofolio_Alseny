@@ -225,6 +225,7 @@ Construire une segmentation client exploitable métier pour :
 - Suppression des doublons
 - Conversion des dates
 - Agrégation client (RFM)
+  
 **Résultat :** une base client propre et actionnable
 
 
