@@ -212,13 +212,16 @@ Une entreprise e-commerce dispose de milliers de clients, mais :
 - elle cherche à savoir qui prioriser
 - ne distingue pas les clients rentables
 - ignore les clients atypiques ou à risque
+  
 **Objectif**
+
 Construire une segmentation client exploitable métier pour :
 - augmenter la valeur client
 - réduire le churn
 - guider les actions marketing & CRM
   
 **DONNÉES & PRÉPARATION**
+
 - Dataset réel Olist (Brésil)
 - +100 000 transactions
 - Niveau transactionnel → client
