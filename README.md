@@ -295,26 +295,15 @@ Fusion **RFM + K-Means + DBSCAN**
 - À Risque
 - Standard
 - Atypiques
-- 
-**Vue orientée décision & priorisation, pas algorithme.**
+- Vue orientée décision & priorisation, pas algorithme.
+  
+**DASHBOARD STREAMLIT**
 
+Fonctionnalités :
 
-
-
-
-
-
-
-
-
-### - Modélisation prédictive de la consommation énergétique et des émissions de CO₂ des bâtiments municipaux.
-![Data Code](/images/photo/normal.jpg)
-
-### - Segmentation client et analyse comportementale sur un site e-commerce à l’aide de techniques de clustering.
-![Data Code](/images/photo/DaImg.jpg)
-
-### - Classification de tags avec des modèles NLP et déploiement du modèle sur le cloud.
-
-### - Reconnaissance d’images par Deep Learning en utilisant des réseaux de neurones convolutifs (CNN).
-
-
+- Upload CSV
+- Filtres dynamiques
+- Visualisations interactives
+- Interprétation automatique
+- Export clients actionnables
+- déploiement cloud Streamlit
