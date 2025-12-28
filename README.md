@@ -200,7 +200,9 @@ Cela rend le modèle audit-compatible pour les métiers (finance, risque, confor
 - Explicabilité conforme aux attentes légales
 - Accélération du temps de décision
 - Solution déployée en environnement cloud
+- 
 ### Projet 3 : Segmentation Client Avancée - RFM, K-Means & DBSCAN
+[Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Statut-Compte-Clients)
 #### CONTEXTE BUSINESS
 **Problématique**
 Une entreprise e-commerce dispose de milliers de clients, mais :
@@ -212,9 +214,16 @@ Construire une segmentation client exploitable métier pour :
 - augmenter la valeur client
 - réduire le churn
 - guider les actions marketing & CRM
-
-
-
+**DONNÉES & PRÉPARATION**
+- Dataset réel Olist (Brésil)
+- +100 000 transactions
+- Niveau transactionnel → client
+**Nettoyage & préparation**
+- Filtrage des commandes livrées
+- Suppression des doublons
+- Conversion des dates
+- Agrégation client (RFM)
+**Résultat :** une base client propre et actionnable
 
 
 
