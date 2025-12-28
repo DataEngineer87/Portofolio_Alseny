@@ -227,6 +227,28 @@ Construire une segmentation client exploitable métier pour :
 - Agrégation client (RFM)
   
 **Résultat :** une base client propre et actionnable
+### Méthode
+**Méthode 1 - SEGMENTATION RFM**
+- Recency : récence du dernier achat
+- Frequency : nombre de commandes
+- Monetary : montant total dépensé
+- Scoring 1–5 (quantiles + fallback)
+
+**Segments obtenus**
+- Champions
+- Clients fidèles
+- Clients prometteurs
+- Nouveaux clients
+- À surveiller
+- À réactiver
+- À risque
+- Perdus
+
+**Impact business**
+- Priorisation marketing
+- Lecture simple pour équipes métier
+- Vision valeur client claire
+
 
 
 
