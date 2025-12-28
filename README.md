@@ -200,8 +200,18 @@ Cela rend le modèle audit-compatible pour les métiers (finance, risque, confor
 - Explicabilité conforme aux attentes légales
 - Accélération du temps de décision
 - Solution déployée en environnement cloud
-
-
+### Projet 3 : Segmentation Client Avancée - RFM, K-Means & DBSCAN
+#### CONTEXTE BUSINESS
+**Problématique**
+Une entreprise e-commerce dispose de milliers de clients, mais :
+- elle cherche à savoir qui prioriser
+- ne distingue pas les clients rentables
+- ignore les clients atypiques ou à risque
+**Objectif**
+Construire une segmentation client exploitable métier pour :
+- augmenter la valeur client
+- réduire le churn
+- guider les actions marketing & CRM
 
 
 
