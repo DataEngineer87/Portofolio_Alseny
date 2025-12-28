@@ -307,3 +307,54 @@ Fonctionnalités :
 - Interprétation automatique
 - Export clients actionnables
 - déploiement cloud Streamlit
+## Monitoring – Stabilité de la Segmentation
+[Code source GitHub | Demo en ligne](https://customer-segmentation-ecommerce-rfm-kmeans-dbscan-kje2pukjdu2t.streamlit.app/)
+
+**Objectif du monitoring**
+
+Dans un contexte de segmentation **non supervisée (K-Means / DBSCAN)**, il n’existe pas de "vérité terrain".
+
+Le monitoring vise donc à :
+- Détecter les dérives comportementales clients
+- Garantir la stabilité des clusters dans le temps
+- Décider quand retrainer le modèle
+  
+**Principe retenu : Adjusted Rand Index (ARI)**
+  
+L’**Adjusted Rand Index (ARI)** mesure la similarité entre deux partitions de clusters :
+
+- ARI = 1 → clusters parfaitement stables
+- ARI ≈ 0 → structure aléatoire
+- ARI < 0 → dérive majeure
+Ce **monitoring temporel (Rolling Window)**
+- Fenêtre historique (window_days) : Période de référence servant de baseline.
+- Pas temporel (step_days) : Fréquence de recalcul de la segmentation
+
+**Exemple**
+- Fenêtre = 365 jours
+- Pas = 7 jours
+
+Le modèle est comparé chaque semaine à la segmentation de référence (année N-1).
+
+**Politique d’alertes**
+**ARI  	              Statut     	              Action                      Décision**
+ARI ≥ 0.30	         Stable	                    Aucune action               Retrain trimestriel
+0.20 ≤ ARI < 0.30	   Dérive détectée	          Surveillance accrue         Retrain mensuel
+ARI < 0.20	         Dérive critique	          Retrain immédiat            Retrain immédiat
+
+Cette logique est implémentée directement dans le pipeline de monitoring.
+
+**Visualisation & Dashboard**
+
+Le monitoring est exposé via un dashboard Streamlit interactif :
+
+- Courbe ARI dans le temps
+- Seuils métiers visuels
+- Alertes en temps réel
+- Paramétrage dynamique (k, fenêtre, pas)
+
+**Valeur business**
+
+- Anticipation de la perte de performance
+- Meilleure priorisation clients (VIP / À risque / Atypiques)
+- Décisions data-driven pour le CRM et le marketing
