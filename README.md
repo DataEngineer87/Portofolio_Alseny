@@ -226,9 +226,9 @@ Construire une segmentation client exploitable métier pour :
 - Conversion des dates
 - Agrégation client (RFM)
   
-**Résultat :** une base client propre et actionnable
-### Méthode
-**Méthode 1 - SEGMENTATION RFM**
+**Résultat obtenu :** une base client propre et actionnable
+### Méthodes
+#### Méthode 1 - SEGMENTATION RFM
 - Recency : récence du dernier achat
 - Frequency : nombre de commandes
 - Monetary : montant total dépensé
@@ -248,12 +248,55 @@ Construire une segmentation client exploitable métier pour :
 - Priorisation marketing
 - Lecture simple pour équipes métier
 - Vision valeur client claire
+#### Méthode 2 - K-MEANS (SEGMENTATION COMPORTEMENTALE)
+**Objectif**
+Identifier des groupes de clients similaires, sans règles métiers.
 
+**Variables utilisées**
 
+- Recency
+- Frequency
+- Monetary
+- Score moyen d’avis
+- Paiements moyens
 
+**Démarches**
+- Normalisation MinMax
+- Sélection de K via Silhouette Score
+- Visualisations interactives (Plotly)
+**Résultats obtenus**
+- Meilleur K identifié automatiquement
+- Clusters interprétés par profil moyen
+- Génération automatique d’interprétations business
+#### Méthode 3 - DBSCAN (CLIENTS ATYPIQUES)
+**Objectif**
 
+Détecter les clients hors normes :
+- comportements extrêmes
+- anomalies
+- profils à fort risque ou opportunité
 
+**Démarches**
 
+- Standardisation robuste
+- DBSCAN (eps + min_samples)
+- K-distance plot automatique
+
+**Résultat obtenu**
+- Label -1 = clients atypiques
+- Export vers fichier actionnable
+
+#### VUE STRATÉGIQUE FINALE (CEO / CRM VIEW)
+Fusion **RFM + K-Means + DBSCAN**
+
+**Typologie clients**
+
+- VIP
+- À Risque
+- Standard
+- Atypiques
+- 
+**Vue orientée décision & priorisation, pas algorithme.**
 
 
 
