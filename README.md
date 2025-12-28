@@ -214,10 +214,12 @@ Construire une segmentation client exploitable métier pour :
 - augmenter la valeur client
 - réduire le churn
 - guider les actions marketing & CRM
+  
 **DONNÉES & PRÉPARATION**
 - Dataset réel Olist (Brésil)
 - +100 000 transactions
 - Niveau transactionnel → client
+  
 **Nettoyage & préparation**
 - Filtrage des commandes livrées
 - Suppression des doublons
