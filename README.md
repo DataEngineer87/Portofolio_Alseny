@@ -1,4 +1,4 @@
-### Data Scientist spécialisé en MLOps et Intelligence Artificielle – Activité indépendante
+## Data Scientist spécialisé en MLOps et Intelligence Artificielle – Activité indépendante
 
 **Prestations de services en data science, automatisation des processus, développement de modèles de machine learning et solutions d’intelligence artificielle.**
 
