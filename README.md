@@ -346,6 +346,7 @@ Ce **monitoring temporel (Rolling Window)**
 Le modèle est comparé chaque semaine à la segmentation de référence (année N-1).
 
 **Politique d’alertes**
+
 **ARI  	              Statut     	              Action                      Décision**
 ARI ≥ 0.30	         Stable	                    Aucune action               Retrain trimestriel
 0.20 ≤ ARI < 0.30	   Dérive détectée	          Surveillance accrue         Retrain mensuel
