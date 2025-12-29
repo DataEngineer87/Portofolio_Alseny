@@ -1,15 +1,15 @@
-## Data Scientist spécialisé en MLOps et Intelligence Artificielle – Activité indépendante
+### Data Scientist spécialisé en MLOps et Intelligence Artificielle – Activité indépendante
 
 **Prestations de services en data science, automatisation, modèles de machine learning et solutions d’intelligence artificielle.**
 
 En tant qu’expert en data science, je vous accompagne dans la transformation de vos données en leviers stratégiques. Grâce à l’extraction d’insights pertinents et au développement de modèles intelligents, j’apporte une vision éclairée pour optimiser vos prises de décision. Mon agilité, ma curiosité analytique et mon approche proactive constituent des atouts majeurs pour toute entreprise souhaitant affiner sa stratégie et améliorer l’efficacité de ses processus décisionnels. 
 Je privilégie des solutions analytiques performantes, durables et adaptées aux enjeux spécifiques de votre activité.
-## Formations
+#### Formations
 - Machine Learning Enginner
 - Master Data Science
 - Certificat Data Science
 
-## Compétences clés.
+#### Compétences clés.
 
 **Machine Learning :**
 - Machine Learning & Deep Learning
@@ -60,7 +60,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Docker · Git · GitHub Actions · MLflow · Streamlit · FastAPI · SQL
 
 
-## Expériences
+#### Expériences
 🔹Data Scientist | Covéa | [Dates]
 📍 Paris, France.
 - Optimisé la tarification MRH en développant un modèle dynamique (Python, SQL), réduisant l’écart-type des primes de 15 %.
@@ -85,7 +85,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Fournit des analyses stratégiques, influençant les décisions opérationnelles.
 - Optimisé la planification des agents, réduisant les conflits d’horaires de 25 %.
 
-## Projets: 
+#### Projets: 
 ### Projet 1 : Assistant RH Intelligent basé sur l’IA Générative (RAG + LLM + FAISS).
 [Code source GitHub | Démo interactive](https://github.com/DataEngineer87/Chatbot-Rh-Rag?tab=readme-ov-file)
 #### Démo :
@@ -134,7 +134,7 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - Gestion des secrets & configuration streamlit cloud
 - Structuration professionnelle de projet IA
 
-### Projet 2 : Prédiction du Statut de Compte Client
+#### Projet 2 : Prédiction du Statut de Compte Client
 [Code source GitHub | Démo interactive](https://github.com/DataEngineer87/Statut-Compte-Clients)
 #### Démo :
 <img src="images/photo/COMPTE_CLIENT_page-0001.jpg" width="400">
