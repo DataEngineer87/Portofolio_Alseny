@@ -202,7 +202,8 @@ Cela rend le modèle audit-compatible pour les métiers (finance, risque, confor
 - Solution déployée en environnement cloud
 - 
 ### Projet 3 : Segmentation Client Avancée - RFM, K-Means & DBSCAN
-[Code source GitHub | Demo en ligne](https://customer-segmentation-ecommerce-rfm-kmeans-dbscan-gdmow7wqflq5.streamlit.app/)
+[Code source GitHub | Demo en ligne](https://customer-segmentation-ecommerce-rfm-kmeans-dbscan-ogdvmz6rtytd.streamlit.app/)
+
 #### Démo :
 <img src="images/photo/RFM.png" width="400">
 
