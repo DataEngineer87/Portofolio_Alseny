@@ -84,7 +84,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 
 ## Projets: 
 ### Projet 1 : Assistant RH Intelligent basé sur l’IA Générative (RAG + LLM + FAISS).
-[Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Chatbot-Rh-Rag?tab=readme-ov-file)
+[Code source GitHub | Démo interactive](https://github.com/DataEngineer87/Chatbot-Rh-Rag?tab=readme-ov-file)
 #### Démo :
 <img src="images/photo/CHATBOOT.png" width="400">
 
@@ -132,7 +132,7 @@ Développement d’un système **RAG** complet (PDF → embeddings → LLM)
 - Structuration professionnelle de projet IA
 
 ### Projet 2 : Prédiction du Statut de Compte Client
-[Code source GitHub | Demo en ligne](https://github.com/DataEngineer87/Statut-Compte-Clients)
+[Code source GitHub | Démo interactive](https://github.com/DataEngineer87/Statut-Compte-Clients)
 #### Démo :
 <img src="images/photo/COMPTE_CLIENT_page-0001.jpg" width="400">
 
@@ -202,7 +202,7 @@ Cela rend le modèle audit-compatible pour les métiers (finance, risque, confor
 - Solution déployée en environnement cloud
 - 
 ### Projet 3 : Segmentation Client Avancée - RFM, K-Means & DBSCAN
-[Code source GitHub | Demo en ligne](https://customer-segmentation-ecommerce-rfm-kmeans-dbscan-ogdvmz6rtytd.streamlit.app/)
+[Code source GitHub | Démo interactive](https://customer-segmentation-ecommerce-rfm-kmeans-dbscan-ogdvmz6rtytd.streamlit.app/)
 
 #### Démo :
 <img src="images/photo/RFM.png" width="400">
@@ -315,7 +315,9 @@ Fonctionnalités :
 - Export clients actionnables
 - déploiement cloud Streamlit
 ## Monitoring – Stabilité de la Segmentation
-[Code source GitHub | Demo en ligne](https://customer-segmentation-ecommerce-rfm-kmeans-dbscan-kje2pukjdu2t.streamlit.app/)
+[Code source GitHub | Démo interactive](https://customer-segmentation-ecommerce-rfm-kmeans-dbscan-kje2pukjdu2t.streamlit.app/)
+#### Démo :
+<img src="images/photo/RFM.png" width="400">
 
 **Objectif du monitoring**
 
