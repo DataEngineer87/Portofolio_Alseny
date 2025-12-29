@@ -340,7 +340,7 @@ Ce **monitoring temporel (Rolling Window)**
 - Pas temporel (step_days) : Fréquence de recalcul de la segmentation
 
 **Exemple**
-- Fenêtre = 365 jours
+- Fenêtre = 182 jours
 - Pas = 7 jours
 
 Le modèle est comparé chaque semaine à la segmentation de référence (année N-1).
