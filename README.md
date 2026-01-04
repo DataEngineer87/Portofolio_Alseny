@@ -13,7 +13,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 
 **Machine Learning :**
 - Machine Learning & Deep Learning
-- Scikit-Learn, XGBoost, Random Forest
+- Scikit-Learn, tensorflow, XGBoost, Random Forest
 - NLP (transformers, embeddings), clustering
 - Feature engineering & optimisation des modèles
 - Optimisation : GridSearch, Optuna, Random Search
@@ -54,11 +54,6 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Streamlit Cloud
 - Git & GitHub avancé
 - Automatisation CI/CD
-  
-**Outils :**
-- Python · Pandas · NumPy · Scikit-learn · FAISS · LangChain · HuggingFace · Transformers
-- Docker · Git · GitHub Actions · MLflow · Streamlit · FastAPI · SQL
-
 
 ### Expériences
 🔹Data Scientist | Covéa | [Dates]
