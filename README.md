@@ -85,7 +85,7 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 - Fournit des analyses stratégiques, influençant les décisions opérationnelles.
 - Optimisé la planification des agents, réduisant les conflits d’horaires de 25 %.
 
-## Projets: 
+## Projets DATA & IA: 
 ### Projet 1 : Assistant RH Intelligent basé sur l’IA Générative (RAG + LLM + FAISS).
 [Code source GitHub | Démo interactive](https://github.com/DataEngineer87/Chatbot-Rh-Rag?tab=readme-ov-file)
 #### Démo :
