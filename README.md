@@ -58,27 +58,24 @@ Je privilégie des solutions analytiques performantes, durables et adaptées aux
 ### Expériences
 🔹Data Scientist | Covéa | [Dates]
 📍 Paris, France.
-- Optimisé la tarification MRH en développant un modèle dynamique (Python, SQL), réduisant l’écart-type des primes de 15 %.
-- Analysé 10M+ sinistres auto (PySpark, SQL), identifiant des facteurs de risque et réduisant les coûts d’indemnisation de 10 %.
-- Renforcé la lutte antifraude en implémentant un modèle IA (Random Forest, Gradient Boosting), améliorant la détection de 30 %.
-- Industrialisé le scoring de fraude via AWS Sagemaker, réduisant le temps de détection de 40 %.
-- Déployé des dashboards interactifs (Power BI, Tableau), optimisant l’interprétation des insights métiers.
+- Développement de modèles ML (fraude, scoring sinistres, tarification MRH) sur plusieurs centaines de milliers d’observations.
+- Amélioration des performances modèles via feature engineering et tuning (gain estimé de +10 à +20% sur le recall selon les cas d’usage).
+- Réduction d’environ 10% des faux positifs sur un modèle de détection, améliorant la pertinence opérationnelle.
+- Industrialisation des modèles via API FastAPI conteneurisées (Docker) avec suivi de performance post-déploiement.
+- Collaboration étroite avec équipes métier pour cadrage, interprétation et restitution des résultats.
 
 🔹Data Scientist | Ufirst Advisory | [Dates]
 📍 Paris, France.
-- Optimisé le traitement des données (+50M lignes) avec SQL, Pandas, PySpark, réduisant le temps de préparation de 30 %.
-- Exploré et visualisé les données (Matplotlib, Seaborn, Plotly), améliorant l’analyse exploratoire et la prise de décision.
-- Amélioré les prévisions de vente de 15 % via des modèles prédictifs avancés (XGBoost, LightGBM, Random Forest).
-- Automatisé le déploiement des modèles (Docker, AWS Lambda), réduisant le time-to-production de 40 %.
-- Restitué des insights clairs en Power BI, Tableau, Dash, facilitant la prise de décision métier.
+- Pilotage de projets data end-to-end : cadrage, préparation des données, modélisation et restitution.
+- Modèles prédictifs et segmentation contribuant à une amélioration estimée de 5–10% de la performance sur cas d’usage métier.
+- Production de livrables techniques exploitables (notebooks structurés, scripts, documentation, supports décisionnels).
+- Interaction directe avec parties prenantes pour traduction des enjeux business en solutions analytiques.
 
 🔹 Chargé d'études statistiques | Altocis-P.S.| [Dates]
 📍 Paris, France.
-- Conçu des dashboards dynamiques (Excel, Power BI), clarifiant les insights pour la direction.
-- Automatisé le suivi des KPI, réduisant le temps d’analyse de 30 %.
-- Géré 500+ documents comptables (SQL, Excel VBA), assurant une saisie de données précise.
-- Fournit des analyses stratégiques, influençant les décisions opérationnelles.
-- Optimisé la planification des agents, réduisant les conflits d’horaires de 25 %.
+- Analyses statistiques sur données internes pour appuyer la prise de décision opérationnelle.
+- Production et automatisation de tableaux de bord KPI contribuant à une meilleure visibilité sur la performance d’activité.
+- Structuration et fiabilisation de volumes importants de données, améliorant la qualité des analyses.
 
 ## Projets DATA & IA: 
 ### Projet 1 : Assistant RH Intelligent basé sur l’IA Générative (RAG + LLM + FAISS).
